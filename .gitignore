@@ -106,3 +106,9 @@ coverage/
 
 # Local application state (add project-specific paths below)
 # /path/to/local/file_or_dir
+
+trainer.yml
+test_images/
+known_faces/*
+attendance.csv
+!known_faces/.gitkeep
